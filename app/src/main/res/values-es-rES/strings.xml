@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PreferenciasCompartidas</string>
+    <string name="login">Entrar</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="enter_youe_email">Correo electrónico</string>
+    <string name="logout">Salir</string>
+    <string name="empty">Por favor inserte email y contraseña</string>
+    <string name="welcome">Bienvenido</string>
+</resources>

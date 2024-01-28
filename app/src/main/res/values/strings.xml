@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_youe_email">Enter your Email</string>
+    <string name="logout">Logout</string>
+    <string name="empty">Please Enter Email and Password</string>
+    <string name="welcome">Welcome</string>
+</resources>
